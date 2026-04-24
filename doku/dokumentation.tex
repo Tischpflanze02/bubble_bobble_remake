@@ -1,0 +1,109 @@
+\documentclass{article}
+\usepackage[a4paper, margin=2cm]{geometry} 
+\usepackage[T1]{fontenc} %lädt Deutsche schriftzeichen
+\usepackage{amssymb}%für Mathe
+\usepackage{setspace} %für Zeilen Abstand 
+\usepackage[none]{hyphenat} % Silbentrennung deaktivieren 
+\usepackage{fancyhdr}%Kopf und Fußzeile: https://de.overleaf.com/learn/latex/Headers_and_footers
+\usepackage{graphicx}%Zum Bilder einfügen
+\usepackage{xcolor}
+\usepackage{wrapfig}
+\usepackage[document]{ragged2e}%für Blocksatz
+\usepackage[ddmmyyyy]{datetime}%zum bearbeiten vom Datungs Format
+\usepackage{eurosym}%für \Euro / \euro
+\usepackage{hyperref}
+
+
+\newcommand{\authoren}{Niklas Hainz}
+\newcommand{\Thema}{Spiel Projekt}
+\newcommand{\Fach}{Praktische Informatik}
+\newcommand{\Zeilenabstand}{1.2}
+\newcommand{\Inhaltsverzeichnisname}{Inhaltsverzeichnis}
+
+
+\newcommand{\absatz}{5mm}
+\newcommand{\Blocksatz}{\justifying}
+\newcommand{\strich}{\vspace{\absatz}\hrule\vspace{\absatz}} 
+
+
+\title{\Thema}
+\author{\authoren}
+\date{\today}
+
+
+\setlength{\parindent}{0cm} %deaktiviert die Automatische Einrückung am Anfang des Dokumentes 
+\renewcommand{\contentsname}{\Inhaltsverzeichnisname}
+\renewcommand{\dateseparator}{.}
+
+
+
+
+
+
+
+\begin{document}
+\begin{spacing}{\Zeilenabstand}
+\maketitle
+\begin{center}
+    \vspace{-5mm}
+    Fach: \Fach
+\end{center}
+\thispagestyle{empty}
+\newpage
+
+\pagestyle{fancy}
+\fancyhead[L]{\authoren}
+\fancyhead[C]{\Thema / Fach: \Fach}
+\fancyhead[R]{\today}
+\fancyfoot[R]{\thepage}
+\fancyfoot[C]{}
+
+\pagenumbering{roman}
+\setcounter{page}{1}
+\tableofcontents
+
+
+\newpage
+
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+
+%%% Document start %%%
+
+
+
+\section{Einleitung}
+
+\section{Planung}
+
+\subsection{Produktskizze}
+
+\subsection{Prototypen}
+
+\subsection{Versionierung}
+
+\section{Entwurf}
+
+\subsection{Struktogramm(e) einer (von)  Methode(n)}
+
+\section{Durchführung}
+
+\subsection{Beschreibung Ablauf }
+
+\subsection{Beschreibung des Spielablaufs}
+
+\subsection{Fehlerprotokoll und Maßnahmen zur Behebung}
+
+\subsection{Kommentierter Quelltex}
+
+\subsection{Begründung von Abweichungen gegenüber Planung}
+
+\subsection{Screenshots}
+
+\section{Fazit}
+
+\section{Quellen}
+
+\end{spacing}
+\end{document}
