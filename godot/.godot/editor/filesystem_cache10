@@ -1,8 +1,9 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1777032459
+::res://::1777374837
 area_2d.gd::GDScript::8779765504504100845::1776954514::0::1::::<>Area2D<><>0<>0<><>::
+character_body_2d.gd::GDScript::4549735985776268654::1777369823::0::1::::<>CharacterBody2D<><>0<>0<><>::
 icon.svg::CompressedTexture2D::3172258022151510656::1776948615::1776954940::1::::<><><>0<>0<>49f2c60050ceb43c4e16ee3dc248b870<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-node_2d.tscn::PackedScene::366338461339358414::1776953784::0::1::::<><><>0<>0<><>::uid://q2oxyalp1b6j::::res://Unbenannt.png
+node_2d.tscn::PackedScene::366338461339358414::1777370289::0::1::::<><><>0<>0<><>::uid://q2oxyalp1b6j::::res://Unbenannt.png
 Player.tscn::PackedScene::6841008423384891052::1776954514::0::1::::<><><>0<>0<><>::uid://dxc8pqeaonxjx::::res://area_2d.gd<>uid://q2oxyalp1b6j::::res://Unbenannt.png
 README.md::TextFile::-1::1776954844::0::1::::<><><>0<>0<><>::
 Unbenannt.png::CompressedTexture2D::1179652069807937483::1776953076::1776954940::1::::<><><>0<>0<>92dc50222694b18e26dcd583ffa3c285<>res://.godot/imported/Unbenannt.png-23028d4a14028fc9cf507b85423bb3ad.ctex::
