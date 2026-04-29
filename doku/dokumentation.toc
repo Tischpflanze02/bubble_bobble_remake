@@ -1,16 +1,13 @@
 \contentsline {section}{\numberline {1}Einleitung}{1}{section.1}%
 \contentsline {section}{\numberline {2}Planung}{1}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Produktskizze}{1}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Ziel des Spieles}{1}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Genre des Spiels}{1}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Grobe Struktur der Benutzeroberfläche}{1}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}Aufgaben und Vorgehen des Spielers}{1}{subsubsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.5}Spielende}{1}{subsubsection.2.1.5}%
 \contentsline {subsection}{\numberline {2.2}Prototypen}{1}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Spielbeginn}{1}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Typische Szene im Spiel}{1}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Spielende}{1}{subsubsection.2.2.3}%
 \contentsline {subsection}{\numberline {2.3}Versionierung}{1}{subsection.2.3}%
-\contentsline {section}{\numberline {3}Entwurf}{1}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Struktogramm(e) einer (von) Methode(n)}{1}{subsection.3.1}%
-\contentsline {section}{\numberline {4}Durchführung}{1}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Beschreibung Ablauf }{1}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Beschreibung des Spielablaufs}{1}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Fehlerprotokoll und Maßnahmen zur Behebung}{1}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Kommentierter Quelltex}{1}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Begründung von Abweichungen gegenüber Planung}{1}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6}Screenshots}{1}{subsection.4.6}%
-\contentsline {section}{\numberline {5}Fazit}{1}{section.5}%
-\contentsline {section}{\numberline {6}Quellen}{1}{section.6}%
