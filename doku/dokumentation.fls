@@ -52,10 +52,6 @@ INPUT /usr/share/texmf-dist/tex/latex/graphics/mathcolor.ltx
 INPUT /usr/share/texmf-dist/tex/latex/graphics/mathcolor.ltx
 INPUT /usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 INPUT /usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-INPUT /usr/share/texmf-dist/tex/latex/ragged2e/ragged2e.sty
-INPUT /usr/share/texmf-dist/tex/latex/ragged2e/ragged2e.sty
-INPUT /usr/share/texmf-dist/tex/latex/footmisc/footmisc.sty
-INPUT /usr/share/texmf-dist/tex/latex/footmisc/footmisc.sty
 INPUT /usr/share/texmf-dist/tex/latex/datetime/datetime.sty
 INPUT /usr/share/texmf-dist/tex/latex/datetime/datetime.sty
 INPUT /usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty

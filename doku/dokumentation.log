@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.4.8)  29 APR 2026 21:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.4.23)  30 APR 2026 10:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -118,38 +118,6 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 \WF@box=\box53
 \WF@everypar=\toks21
 Package: wrapfig 2003/01/31  v 3.6
-) (/usr/share/texmf-dist/tex/latex/ragged2e/ragged2e.sty
-Package: ragged2e 2023/06/22 v3.6 ragged2e Package
-
-
-LaTeX Warning: Command \@arrayparboxrestore  has changed.
-               Check if current package is valid.
-
-(/usr/share/texmf-dist/tex/latex/footmisc/footmisc.sty
-Package: footmisc 2025/05/09 v7.0b a miscellany of footnote facilities
-\FN@temptoken=\toks22
-\footnotemargin=\dimen161
-Package footmisc Info: Declaring symbol style bringhurst on input line 549.
-Package footmisc Info: Declaring symbol style chicago on input line 557.
-Package footmisc Info: Declaring symbol style wiley on input line 566.
-Package footmisc Info: Declaring symbol style lamport-robust on input line 577.
-Package footmisc Info: Declaring symbol style lamport* on input line 597.
-Package footmisc Info: Declaring symbol style lamport*-robust on input line 618.
-)
-\CenteringLeftskip=\skip65
-\RaggedLeftLeftskip=\skip66
-\RaggedRightLeftskip=\skip67
-\CenteringRightskip=\skip68
-\RaggedLeftRightskip=\skip69
-\RaggedRightRightskip=\skip70
-\CenteringParfillskip=\skip71
-\RaggedLeftParfillskip=\skip72
-\RaggedRightParfillskip=\skip73
-\JustifyingParfillskip=\skip74
-\CenteringParindent=\skip75
-\RaggedLeftParindent=\skip76
-\RaggedRightParindent=\skip77
-\JustifyingParindent=\skip78
 ) (/usr/share/texmf-dist/tex/latex/datetime/datetime.sty
 Package: datetime 2015/03/20 v2.60 Date Time Package
  (/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
@@ -162,9 +130,9 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 ) (/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2025/11/04 v2.10 package option processing (HA)
  (/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks23
-\XKV@tempa@toks=\toks24
-\XKV@tempb@toks=\toks25
+\XKV@toks=\toks22
+\XKV@tempa@toks=\toks23
+\XKV@tempb@toks=\toks24
 )
 \XKV@depth=\count288
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
@@ -175,8 +143,8 @@ Package: fcnumparser 2017/06/15
 \fc@digit@counter=\count289
 )) (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks26
-\ex@=\dimen162
+\@emptytoks=\toks25
+\ex@=\dimen161
 )
 \c@padzeroesN=\count290
 \fc@tmpcatcode=\count291
@@ -207,8 +175,8 @@ Package datetime Info: No datetime.cfg file found, using default settings on inp
 \dayofyear=\count312
 \dayofweek=\count313
 LaTeX Info: Redefining \today on input line 736.
-\dt@a=\toks27
-\dt@b=\toks28
+\dt@a=\toks26
+\dt@b=\toks27
 ) (/usr/share/texmf-dist/tex/latex/eurosym/eurosym.sty
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
 \@eurobox=\box54
@@ -245,7 +213,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ) (/usr/share/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
-\@linkdim=\dimen163
+\@linkdim=\dimen162
 \Hy@linkcounter=\count315
 \Hy@pagecounter=\count316
  (/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
@@ -274,15 +242,15 @@ Package hyperref Info: Bookmarks ON on input line 4468.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4807.
-\XeTeXLinkMargin=\dimen164
+\XeTeXLinkMargin=\dimen163
  (/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count319
-\Field@Width=\dimen165
-\Fld@charsize=\dimen166
+\Field@Width=\dimen164
+\Fld@charsize=\dimen165
 Package hyperref Info: Hyper figures OFF on input line 6084.
 Package hyperref Info: Link nesting OFF on input line 6089.
 Package hyperref Info: Hyper index ON on input line 6092.
@@ -306,7 +274,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
 )
-\Hy@SectionHShift=\skip79
+\Hy@SectionHShift=\skip65
 ) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count325
@@ -369,24 +337,22 @@ LaTeX Font Info:    ... okay on input line 44.
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count326
-\scratchdimen=\dimen167
+\scratchdimen=\dimen166
 \scratchbox=\box55
 \nofMPsegments=\count327
 \nofMParguments=\count328
-\everyMPshowfont=\toks29
+\everyMPshowfont=\toks28
 \MPscratchCnt=\count329
-\MPscratchDim=\dimen168
+\MPscratchDim=\dimen167
 \MPnumerator=\count330
 \makeMPintoPDFobject=\count331
-\everyMPtoPDFconversion=\toks30
+\everyMPtoPDFconversion=\toks29
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-))
-Package ragged2e Info: ABD: executing \RaggedRight on input line 44.
- (/usr/share/texmf-dist/tex/latex/fmtcount/fc-english.def
+)) (/usr/share/texmf-dist/tex/latex/fmtcount/fc-english.def
 File: fc-english.def 2016/01/12
 )
 Package hyperref Info: Link coloring OFF on input line 44.
@@ -408,11 +374,6 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout4 = `dokumentation.toc'.
 
  [1]
-Overfull \hbox (15.91724pt too wide) in paragraph at lines 118--119
-\T1/cmr/m/n/10 Spiel ende Trifft eine wenn beide Spieler keine Leben mehr haben. Dann würde der ``Game Over'' Screen ein-treten  
- []
-
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -426,15 +387,15 @@ Package rerunfilecheck Info: File `dokumentation.out' has not changed.
 (rerunfilecheck)             Checksum: 169A532F31471ED580E36D6A20ED1265;1788.
  ) 
 Here is how much of TeX's memory you used:
- 11939 strings out of 469515
- 181880 string characters out of 5470808
- 610395 words of memory out of 5000000
- 40400 multiletter control sequences out of 15000+600000
+ 11735 strings out of 469515
+ 177943 string characters out of 5470807
+ 608399 words of memory out of 5000000
+ 40204 multiletter control sequences out of 15000+600000
  639768 words of font info for 74 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,11n,79p,1083b,574s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,1083b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on dokumentation.pdf (3 pages, 135104 bytes).
+Output written on dokumentation.pdf (3 pages, 134929 bytes).
 PDF statistics:
  123 PDF objects out of 1000 (max. 8388607)
  102 compressed objects within 2 object streams

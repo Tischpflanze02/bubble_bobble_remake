@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1777490665.68797 "/home/niklas/daten/git/bubble_bobble_remake/doku/dokumentation.tex" "dokumentation.pdf" "dokumentation" 1777490666.05351 0
-  "/home/niklas/daten/git/bubble_bobble_remake/doku/dokumentation.tex" 1777490665.53206 3742 7cf78b718f233cb6dc8cc3c9c6d9c584 ""
+["pdflatex"] 1777544149.96024 "/home/niklas/daten/git/bubble_bobble_remake/doku/dokumentation.tex" "dokumentation.pdf" "dokumentation" 1777544150.28575 0
+  "/home/niklas/daten/git/bubble_bobble_remake/doku/dokumentation.tex" 1777544149.80038 3731 1c0fc30009175037fe5d8306d18ae2df ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1775415801 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1775415801 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm" 1775415801 3584 2d666ecf6d466d8b007246bc2f94d9da ""
@@ -71,7 +71,6 @@
   "/usr/share/texmf-dist/tex/latex/fmtcount/fcnumparser.sty" 1775415801 11038 6f51846fb936ca8566fb2a1c957c6dab ""
   "/usr/share/texmf-dist/tex/latex/fmtcount/fcprefix.sty" 1775415801 10747 3648e4fffb9f130ffceebed92b30d963 ""
   "/usr/share/texmf-dist/tex/latex/fmtcount/fmtcount.sty" 1775415801 29567 a119477dd563deac2ca2cd2fca5437ae ""
-  "/usr/share/texmf-dist/tex/latex/footmisc/footmisc.sty" 1775415801 18109 4de394dbf43fe44e00e619c01475403a ""
   "/usr/share/texmf-dist/tex/latex/geometry/geometry.sty" 1775415801 41601 9cf6c5257b1bc7af01a58859749dd37a ""
   "/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1775415801 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1775415801 1224 978390e9c2234eab29404bc21b268d1e ""
@@ -92,7 +91,6 @@
   "/usr/share/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty" 1775415801 13815 760b0c02f691ea230f5359c4e1de23a7 ""
   "/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1775415801 30662 bfd6e864f4ffc5018b0e2b6260c3181c ""
   "/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg" 1775415801 678 4792914a8f45be57bb98413425e4c7af ""
-  "/usr/share/texmf-dist/tex/latex/ragged2e/ragged2e.sty" 1775415801 10085 3dececaeed388e31285c366e124c0c4e ""
   "/usr/share/texmf-dist/tex/latex/refcount/refcount.sty" 1775415801 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1775415801 9684 a33a14b82ce60d6e77cb9be689d79ee6 ""
   "/usr/share/texmf-dist/tex/latex/setspace/setspace.sty" 1775415801 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
@@ -101,12 +99,12 @@
   "/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1775415801 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1775415801 5006 d7e899bb5d9717c7f214e9bc0284de7b ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1775415801 43569 fd570f2fa160877d211e859f687312ba ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1775672575 5385779 47c0c393a77fd4a098bacfd57d66b88a ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1775672540 3084557 388d4b6fe8a490fcb3828256baaa3771 ""
-  "dokumentation.aux" 1777490666.00384 1715 a9db59e112520c669dad79ec1c48bbb6 "pdflatex"
-  "dokumentation.out" 1777490666.00484 1788 169a532f31471ed580e36d6a20ed1265 "pdflatex"
-  "dokumentation.tex" 1777490665.53206 3742 7cf78b718f233cb6dc8cc3c9c6d9c584 ""
-  "dokumentation.toc" 1777490666.0058 1061 a0c84f7b912520f6fca2ab6842e7cdf4 "pdflatex"
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1776955679 5385779 47c0c393a77fd4a098bacfd57d66b88a ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1776955638 2328191 08f56219efe4581a1af502451ebbf2b3 ""
+  "dokumentation.aux" 1777544150.24179 1715 a9db59e112520c669dad79ec1c48bbb6 "pdflatex"
+  "dokumentation.out" 1777544150.24279 1788 169a532f31471ed580e36d6a20ed1265 "pdflatex"
+  "dokumentation.tex" 1777544149.80038 3731 1c0fc30009175037fe5d8306d18ae2df ""
+  "dokumentation.toc" 1777544150.24326 1061 a0c84f7b912520f6fca2ab6842e7cdf4 "pdflatex"
   (generated)
   "dokumentation.aux"
   "dokumentation.log"
