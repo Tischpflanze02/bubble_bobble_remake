@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.4.23)  30 APR 2026 10:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.4.23)  30 APR 2026 10:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -374,11 +374,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout4 = `dokumentation.toc'.
 
  [1]
+<media/Bubble_bobble_remake_proto.png, id=79, 462.528pt x 260.172pt>
+File: media/Bubble_bobble_remake_proto.png Graphic file (type png)
+<use media/Bubble_bobble_remake_proto.png>
+Package pdftex.def Info: media/Bubble_bobble_remake_proto.png  used on input line 109.
+(pdftex.def)             Requested size: 231.26343pt x 130.08566pt.
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.147 \end{document}
-                     [1] (./dokumentation.aux)
+l.128 \subsection
+                 {Versionierung} [1 <./media/Bubble_bobble_remake_proto.png>] [2] (./dokumentation.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -387,18 +393,18 @@ Package rerunfilecheck Info: File `dokumentation.out' has not changed.
 (rerunfilecheck)             Checksum: 169A532F31471ED580E36D6A20ED1265;1788.
  ) 
 Here is how much of TeX's memory you used:
- 11735 strings out of 469515
- 177943 string characters out of 5470807
- 608399 words of memory out of 5000000
- 40204 multiletter control sequences out of 15000+600000
- 639768 words of font info for 74 fonts, out of 8000000 for 9000
+ 11743 strings out of 469515
+ 178302 string characters out of 5470807
+ 609439 words of memory out of 5000000
+ 40212 multiletter control sequences out of 15000+600000
+ 639455 words of font info for 73 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,11n,79p,1083b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on dokumentation.pdf (3 pages, 134929 bytes).
+ 75i,11n,79p,1083b,588s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
+Output written on dokumentation.pdf (4 pages, 145243 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
+ 124 PDF objects out of 1000 (max. 8388607)
  102 compressed objects within 2 object streams
- 16 named destinations out of 1000 (max. 500000)
- 97 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 17 named destinations out of 1000 (max. 500000)
+ 102 words of extra memory for PDF output out of 10000 (max. 10000000)
 
