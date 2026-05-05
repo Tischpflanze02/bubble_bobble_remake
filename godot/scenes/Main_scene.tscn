@@ -1,0 +1,38 @@
+[gd_scene format=4 uid="uid://b34846annbi1n"]
+
+[ext_resource type="Script" uid="uid://bl06njyn8e2ck" path="res://scenes/main_scene.gd" id="1_ard34"]
+[ext_resource type="PackedScene" uid="uid://b2dck5pluf567" path="res://scenes/player.tscn" id="2_ard34"]
+[ext_resource type="Texture2D" uid="uid://ooclyn11gbqo" path="res://sprites/test.png" id="2_fkd63"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_4a8l0"]
+texture = ExtResource("2_fkd63")
+texture_region_size = Vector2i(8, 8)
+0:0/0 = 0
+0:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(-4, -4, 4, -4, 4, 4, -4, 4)
+1:0/0 = 0
+1:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(-4, -4, 4, -4, 4, 4, -4, 4)
+0:1/0 = 0
+0:1/0/physics_layer_0/polygon_0/points = PackedVector2Array(-4, -4, 4, -4, 4, 4, -4, 4)
+1:1/0 = 0
+1:1/0/physics_layer_0/polygon_0/points = PackedVector2Array(-4, -4, 4, -4, 4, 4, -4, 4)
+
+[sub_resource type="TileSet" id="TileSet_uxkiq"]
+tile_size = Vector2i(8, 8)
+physics_layer_0/collision_layer = 1
+sources/1 = SubResource("TileSetAtlasSource_4a8l0")
+
+[node name="Node2D" type="Node2D" unique_id=1305098600]
+script = ExtResource("1_ard34")
+
+[node name="TileMapLayer" type="TileMapLayer" parent="." unique_id=84841150]
+tile_map_data = PackedByteArray("AAAAAAUAAQAAAAAAAAABAAUAAQAAAAAAAAACAAUAAQAAAAAAAAADAAUAAQAAAAAAAAAEAAUAAQAAAAAAAAAFAAUAAQAAAAAAAAD+/wUAAQAAAAAAAAD9/wUAAQAAAAAAAAD//wUAAQAAAAAAAAD8/wUAAQAAAAAAAAD7/wUAAQAAAAAAAAD6/wUAAQAAAAAAAAAGAAUAAQAAAAAAAAAHAAUAAQAAAAAAAAAIAAUAAQAAAAAAAAAJAAUAAQAAAAAAAAAKAAUAAQAAAAAAAAALAAUAAQAAAAAAAAAMAAUAAQAAAAAAAAD6/woAAQAAAAAAAAD7/woAAQAAAAAAAAD8/woAAQAAAAAAAAD9/woAAQAAAAAAAAD+/woAAQAAAAAAAAD//woAAQAAAAAAAAAAAAoAAQAAAAAAAAABAAoAAQAAAAAAAAACAAoAAQAAAAAAAAADAAoAAQAAAAAAAAAEAAoAAQAAAAAAAAAFAAoAAQAAAAAAAAAGAAoAAQAAAAAAAAAHAAoAAQAAAAAAAAAIAAoAAQAAAAAAAAAJAAoAAQAAAAAAAAAKAAoAAQAAAAAAAAALAAoAAQAAAAAAAAAMAAoAAQAAAAAAAAA=")
+tile_set = SubResource("TileSet_uxkiq")
+
+[node name="Marker2D" type="Marker2D" parent="." unique_id=873565527]
+position = Vector2(62, 0)
+
+[node name="CharacterBody2D" parent="." unique_id=1849381800 instance=ExtResource("2_ard34")]
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=1751382667]
+position = Vector2(0, -1)
+zoom = Vector2(3.005, 3.005)
