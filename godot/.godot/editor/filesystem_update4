@@ -1,7 +1,1 @@
-res://node_2d.tscn
-res://node_2d.gd
-res://scenes/node_2d.tscn
-res://scripts/player_script.gd
 res://scenes/Main_scene.tscn
-res://scenes/main_scene.gd
-res://scenes/player.tscn
