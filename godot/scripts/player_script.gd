@@ -4,7 +4,28 @@ extends CharacterBody2D
 const SPEED = 50.0
 const JUMP_VELOCITY = -100.0
 
+@onready var _animated_sprite = $texture
+@onready var check_up = $RayCast2D
 
+
+#creating tile
+
+
+
+func _process(_delta):
+	if Input.is_action_pressed("move_right"):
+		_animated_sprite.flip_h = true
+		_animated_sprite.play("walk")
+	elif Input.is_action_pressed("move_left"):
+		_animated_sprite.flip_h = false
+		_animated_sprite.play("walk")
+	else:
+		_animated_sprite.stop()
+	
+	
+	if check_up.is_colliding():
+		
+	#print(check_up.collide_with_bodies)
 
 func _physics_process(delta: float) -> void:
 	# Add the gravity.
@@ -26,6 +47,3 @@ func _physics_process(delta: float) -> void:
 	move_and_slide()
 	
 	
-func on_start(pos):
-	
-	pass
