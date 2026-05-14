@@ -7,10 +7,10 @@ const JUMP_VELOCITY = -100.0
 @onready var _animated_sprite = $texture
 @onready var check_up = $RayCast2D
 
-signal hit_celing
+
+#signal hit_celing
 
 
-#creating tileC
 
 
 
@@ -25,11 +25,15 @@ func _process(_delta):
 		_animated_sprite.stop()
 	
 	
-	if check_up.is_colliding():
+	if check_up.is_colliding() and !is_on_floor() :
 		print("Collided!")
-		hit_celing.emit()
+		#hit_celing.emit()
+		set_collision_mask_value(1,false)
+	else: 
+		set_collision_mask_value(1,true)
 		
-	#print(check_up.collide_with_bodies)
+		
+	
 
 func _physics_process(delta: float) -> void:
 	# Add the gravity.
