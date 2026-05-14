@@ -7,6 +7,8 @@ const JUMP_VELOCITY = -100.0
 @onready var _animated_sprite = $texture
 @onready var check_up = $RayCast2D
 
+signal hit_celing
+
 
 #creating tileC
 
@@ -24,6 +26,8 @@ func _process(_delta):
 	
 	
 	if check_up.is_colliding():
+		print("Collided!")
+		hit_celing.emit()
 		
 	#print(check_up.collide_with_bodies)
 
@@ -47,3 +51,7 @@ func _physics_process(delta: float) -> void:
 	move_and_slide()
 	
 	
+
+
+func _on_node_2d_touch_wall() -> void:
+	pass # Replace with function body.

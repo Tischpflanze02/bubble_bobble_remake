@@ -1,3 +1,5 @@
-res://scenes/Main_scene.tscn
 res://scenes/player.tscn
 res://scripts/player_script.gd
+res://scenes/Main_scene.tscn
+res://scenes/main_scene.gd
+res://scripts/map.gd

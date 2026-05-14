@@ -1,7 +1,4 @@
-extends Node2D
-
-@onready var map = $map
-
+extends TileMapLayer
 
 
 # Called when the node enters the scene tree for the first time.
@@ -15,4 +12,5 @@ func _process(delta: float) -> void:
 
 
 func _on_character_body_2d_hit_celing() -> void:
+	#-set_physics_layer_collision_layer(0, 0)
 	pass # Replace with function body.
