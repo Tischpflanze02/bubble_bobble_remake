@@ -7,7 +7,7 @@ const JUMP_VELOCITY = -100.0
 @onready var _animated_sprite = $texture
 @onready var check_up = $RayCast2D
 
-
+signal create_bubble
 #signal hit_celing
 
 
@@ -24,13 +24,21 @@ func _process(_delta):
 	else:
 		_animated_sprite.stop()
 	
-	
-	if check_up.is_colliding() and !is_on_floor() :
-		print("Collided!")
-		#hit_celing.emit()
+	if velocity.y < 0 :
 		set_collision_mask_value(1,false)
-	else: 
+	else :
 		set_collision_mask_value(1,true)
+		
+	if Input.is_action_pressed("create_bubble"):
+		
+		print("Bubbled")
+	
+	#if  !is_on_floor() and check_up.is_colliding()  :
+	#	print("Collided!")a
+	#	#hit_celing.emit()
+	#	set_collision_mask_value(1,false)
+	#else: 
+	#	set_collision_mask_value(1,true)
 		
 		
 	
@@ -57,5 +65,5 @@ func _physics_process(delta: float) -> void:
 	
 
 
-func _on_node_2d_touch_wall() -> void:
-	pass # Replace with function body.
+#func _on_node_2d_touch_wall() -> void:
+#	pass # Replace with function body.

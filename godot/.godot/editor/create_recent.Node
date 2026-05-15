@@ -1,9 +1,10 @@
-Sprite2D
-Area2D
 CollisionShape2D
 AnimatedSprite2D
-RayCast2D
+RigidBody2D
+Sprite2D
+Area2D
 TileMapLayer
+RayCast2D
 Camera2D
 SubViewport
 Marker2D
